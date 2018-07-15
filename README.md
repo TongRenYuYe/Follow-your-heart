@@ -1,28 +1,17 @@
 # Follow-your-heart
+
 The feeling will tell you the answer to life.
 
 # 网页结构图
 
-<a href="http://tinypic.com?ref=2hfs3u8" target="_blank"><img src="http://i63.tinypic.com/2hfs3u8.jpg" border="0" alt="Image and video hosting by TinyPic"></a>
+<a href="http://tinypic.com?ref=2rf3rli" target="_blank"><img src="http://i67.tinypic.com/2rf3rli.jpg" border="0" alt="Image and video hosting by TinyPic"></a>
 
-## 上
+# 功能
 
-在爱中度过一生
+* 三篇 **武志红** 老师的文章可供阅读
 
-## 中
+* 注册
 
+# 版本
 
-
-```
-<div>感觉</div>
-    此 div 链接 子页-感觉
-<div>思维</div>
-    此 div 链接 子页-思维
-<div>孝道</div>
-    此 div 链接 子页-孝道
-<div>真实</div>
-    此 div 链接 子页-真实
-```
-## 下
-
-<div>同仁于野</div>
+Follow your heart **1.01** version.
