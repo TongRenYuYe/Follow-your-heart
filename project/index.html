@@ -4,83 +4,84 @@
 <head>
     <title>Follow your heart</title>
     <style type="text/css">
-        .head {
-            margin: 10PX auto 10px auto;
-            height: 40px;
-            font-size: 18px;
+        header {
+            width: 300px;
+            height: 60px;
+            font-size: 36px;
+            padding: 10PX 100px 10px 520px;
             color: rgb(238, 10, 10);
-            text-align: center;
             font-family: 楷体, Courier, monospace;
             font-weight: bold;
-            font-size: 30px;
+            text-align: center;
         }
 
         footer {
-            margin: 100px 0px 200px 1000px;
+            width: 1200px;
             height: 20px;
-            font-size: 12px;
+            font-size: 14px;
             color: rgb(0, 3, 5);
-            text-align: center;
+            text-align: right;
         }
 
-        .body {
-            width: 1300px;
-            height: 400px;
-            margin: 20px auto 10px auto;
-        }
-
-        table {
+        .login {
+            width: 50px;
+            height: 40px;
+            color: rgb(238, 10, 10);
+            float: right;
             margin: 20px auto 20px auto;
         }
 
-        td {
-            padding: 100px;
+        .body {
+            width: 960px;
+            height: 400px;
+            font-size: 24px;
         }
 
-        .feeling,
-        .thinking,
-        .living,
-        .real,
-        .filial,
-        .health {
-            font-size: 20px;
+        .feeling {
+            width: 50px;
+            height: 50px;
             font-weight: bold;
+            padding: 150px 50px 150px 500px;
+        }
+
+        .living {
+            width: 50px;
+            height: 50px;
+            float: right;
+            font-weight: bold;
+            padding: 150px 50px 150px 55px;
+        }
+
+        .thinking {
+            width: 50px;
+            height: 50px;
+            float: right;
+            font-weight: bold;
+            padding: 150px 100px 150px 55px;
         }
     </style>
 </head>
 
 <body>
-    <div class="head">
-        <p>在爱中度过一生</p>
+    <div class="login">
+        <a href="html/login.html">注册</a>
     </div>
+    <header>
+        <p>在爱中度过一生</p>
+    </header>
     <div class="body">
-        <table>
-            <tr>
-                <td class="feeling">
-                    <a href="html/feeling.html">感觉</a>
-                </td>
-                <td class="thinking">
-                    <a href="html/thinking.html">思维</a>
-                </td>
-                <td class="living">
-                    <a href="html/living.html">活着</a>
-                </td>
-            </tr>
-            <tr>
-                <td class="real">
-                    <a href="html/real.html">真实</a>
-                </td>
-                <td class="filial">
-                    <a href="html/filial.html">孝道</a>
-                </td>
-                <td class="health">
-                    <a href="html/health.html">身体</a>
-                </td>
-            </tr>
-        </table>
+        <div class="thinking">
+            <a href="html/thinking.html">思维</a>
+        </div>
+        <div class="living">
+            <a href="html/living.html">活着</a>
+        </div>
+        <div class="feeling">
+            <a href="html/feeling.html">感觉</a>
+        </div>
     </div>
     <footer>
-        <p>&copy;版权所有|同仁于野|2018-6-8</p>
+        <p>&copy;版权所有 @同仁于野|2018-6-8</p>
     </footer>
 </body>
 
