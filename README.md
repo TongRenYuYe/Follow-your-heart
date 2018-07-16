@@ -2,16 +2,29 @@
 
 The feeling will tell you the answer to life.
 
-# 网页结构图
+# Goal
+
+**Learn and practice HTML5 and CSS by iterated the project.**
+
+# Refer to
+
+1. Layout
+2. Form
+
+# Structure
 
 <a href="http://tinypic.com?ref=2rf3rli" target="_blank"><img src="http://i67.tinypic.com/2rf3rli.jpg" border="0" alt="Image and video hosting by TinyPic"></a>
 
-# 功能
+# Features
 
-* 三篇 **武志红** 老师的文章可供阅读
+* Three articles
 
-* 注册
+* Login
 
-# 版本
+# Author
+ 
+**Williams Lau**
+ 
+# Version
 
-Follow your heart **1.01** version.
+**1.01** version.
