@@ -8,18 +8,24 @@ The feeling will tell you the answer to life.
 
 # Refer to
 
-1. Layout
-2. Form
+1. HTML5 tags
+2. CSS
 
 # Structure
 
-<a href="http://tinypic.com?ref=2rf3rli" target="_blank"><img src="http://i67.tinypic.com/2rf3rli.jpg" border="0" alt="Image and video hosting by TinyPic"></a>
+<a href="http://tinypic.com?ref=15yyuf7" target="_blank"><img src="http://i66.tinypic.com/15yyuf7.jpg" border="0" alt="Image and video hosting by TinyPic"></a>
 
 # Features
 
-* Three articles
-
 * Login
+
+* Personality test
+
+* Psychological test
+
+* Psychological knowledge
+
+* Articles
 
 # Author
  
@@ -27,4 +33,4 @@ The feeling will tell you the answer to life.
  
 # Version
 
-**1.01** version.
+**1.02** version.
