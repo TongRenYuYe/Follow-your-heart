@@ -13,7 +13,7 @@ The feeling will tell you the answer to life.
 
 # Structure
 
-<a href="http://tinypic.com?ref=15yyuf7" target="_blank"><img src="http://i66.tinypic.com/15yyuf7.jpg" border="0" alt="Image and video hosting by TinyPic"></a>
+<a href="http://tinypic.com?ref=nmjbc3" target="_blank"><img src="http://i65.tinypic.com/nmjbc3.jpg" border="0" alt="Image and video hosting by TinyPic"></a>
 
 # Features
 
