@@ -1,12 +1,13 @@
 header{
-    width: 100px;
+    width: 300px;
     height: 50px;
     margin: 50px auto 100px auto;
 }
-header p{
+header a{
     width: 80px;
     height: 80px;
-    margin-left: 500px;
+    float: right;
+    margin-left: 50px;
     color: #000000;
     font-size: 30px;
 }
