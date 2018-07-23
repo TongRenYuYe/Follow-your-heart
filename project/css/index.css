@@ -1,43 +1,44 @@
 header{
-    width: 1366px;
-    height: 100px;
-    margin: 50px auto 100px auto;
+    width: 300px;
+    height: 50px;
+    margin: 50px auto 50px auto;
 }
 nav{
-    width: 300px;
-    height: 300px;
+    width: 200px;
+    height: 200px;
     margin: 20px 50px 100px 50px;
-    border: 1px solid #000000;
     float: left;
 }
 nav li{
-    display: block;
     list-style: none;
-    margin: 50px;
+    margin-top: 50px;
  }
-.li_1{
-    color: red;
-  }
-  .li_2{
-    color: blue;
-  }
-  .li_3{
-    color: green;
-  }
 .sidebar_right{
-    width: 300px;
-    height: 300px;
+    width: 200px;
+    height: 200px;
     float: right;
-    border: 1px solid #000000;
-    margin: 20px 50px 100px 50px;
+    margin: 55px 50px 100px 50px;
     color: #e60505;
 }
+.sidebar_right ul li{
+    margin-top: 30px;
+}
 .main{
-    width: 466px;
+    width: 733px;
     height: 300px;
     color: brown;
     text-align: center;
     float: left;
-    border: 1px solid #000000;
     margin-top: 20px;
+}
+a{
+    text-decoration: none;
+}
+footer {
+    width: 1300px;
+    height: 20px;
+    font-size: 14px;
+    margin-top: 450px;
+    color: #000000;
+    text-align: right;
 }
