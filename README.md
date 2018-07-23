@@ -13,11 +13,11 @@ The feeling will tell you the answer to life.
 
 # Layout
 
-<a href="http://tinypic.com?ref=nmjbc3" target="_blank"><img src="http://i65.tinypic.com/nmjbc3.jpg" border="0" alt="Image and video hosting by TinyPic"></a>
+<img src="http://i65.tinypic.com/nmjbc3.jpg" border="0" alt="Image and video hosting by TinyPic">
 
 # Features
 
-* **(New)** Test -practice page
+* ~~**(New)** Test -practice page~~
 
 * Login
 
@@ -28,6 +28,10 @@ The feeling will tell you the answer to life.
 * Psychological knowledge
 
 * Articles
+
+# Attention
+
+Clicking on the icon( logo , like a windmill ) will jump to login.html.
 
 # Contributor
  
