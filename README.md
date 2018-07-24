@@ -17,8 +17,6 @@ The feeling will tell you the answer to life.
 
 # Features
 
-* ~~**(New)** Test -practice page~~
-
 * Login
 
 * Personality test
