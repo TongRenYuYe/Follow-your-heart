@@ -1,55 +1,95 @@
-header{
+header {
     width: 300px;
     height: 50px;
     margin: 50px auto 50px auto;
 }
-nav{
+
+nav {
     width: 200px;
     height: 200px;
     margin: 20px 50px 100px 100px;
     float: left;
 }
-nav li{
+
+nav li {
     list-style: none;
     margin-top: 50px;
- }
-a:hover{
+}
+
+a:hover {
     font-size: 150%;
 }
-.li_1 a{
+
+.li_1 a {
     text-decoration: none;
     color: red;
 }
-.li_2 a{
+
+.li_2 a {
     text-decoration: none;
     color: blue;
 }
-.li_3 a{
+
+.li_3 a {
     text-decoration: none;
     color: green;
 }
-.sidebar_right{
+
+.sidebar_right {
     width: 200px;
     height: 200px;
     float: right;
     margin: 55px 50px 100px 50px;
     color: #e60505;
 }
-.sidebar_right ul li{
+
+.sidebar_right ul li {
     margin-top: 30px;
 }
-.sidebar_right li a{
+
+.sidebar_right li a {
     text-decoration: none;
     color: #e60505;
 }
-.main{
+
+.main {
     width: 633px;
     height: 300px;
     color: brown;
     text-align: center;
+    font-size: 22px;
     float: left;
     margin-top: 20px;
 }
+
+.main a {
+    text-decoration: none;
+    color: chocolate;
+    font-weight: bold;
+    font-family: 楷体, Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.feeling {
+    width: 111px;
+    height: 100px;
+    margin: 100px 150px 100px 0px;
+    float: left;
+}
+
+.living {
+    width: 111px;
+    height: 100px;
+    margin: 100px 150px 100px 0px;
+    float: left;
+}
+
+.thinking {
+    width: 111px;
+    height: 100px;
+    margin: 100px 0px 100px 0px;
+    float: right;
+}
+
 footer {
     width: 1300px;
     height: 20px;
