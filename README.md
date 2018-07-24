@@ -13,7 +13,7 @@ The feeling will tell you the answer to life.
 
 # Layout
 
-<img src="http://i65.tinypic.com/nmjbc3.jpg" border="0" alt="Image and video hosting by TinyPic">
+<img src="http://i65.tinypic.com/nmjbc3.jpg" alt="Layout">
 
 # Features
 
