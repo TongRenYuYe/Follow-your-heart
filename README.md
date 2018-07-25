@@ -19,9 +19,9 @@ The feeling will tell you the answer to life.
 
 * Login
 
-* Personality test
+* Love test
 
-* Psychological test
+* MBTI test
 
 * Psychological knowledge
 
