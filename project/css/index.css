@@ -34,24 +34,6 @@ a:hover {
     text-decoration: none;
     color: green;
 }
-
-.sidebar_right {
-    width: 200px;
-    height: 200px;
-    float: right;
-    margin: 55px 50px 100px 50px;
-    color: #e60505;
-}
-
-.sidebar_right ul li {
-    margin-top: 30px;
-}
-
-.sidebar_right li a {
-    text-decoration: none;
-    color: #e60505;
-}
-
 .main {
     width: 633px;
     height: 300px;
@@ -93,7 +75,7 @@ a:hover {
 footer {
     width: 1300px;
     height: 20px;
-    font-size: 14px;
+    font-size: 12px;
     margin-top: 450px;
     color: #000000;
     text-align: right;

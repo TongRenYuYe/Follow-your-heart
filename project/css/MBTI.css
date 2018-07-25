@@ -5,6 +5,12 @@ header p {
     color: rgb(255, 38, 0);
 }
 
+article {
+    margin-top: 30px;
+    margin-left: 100px;
+    margin-right: 300px;
+}
+
 .side_right {
     width: 200px;
     height: 300px;
@@ -30,11 +36,6 @@ header p {
 .side_right p {
     font-size: 18px;
     font-weight: bold;
-}
-
-form {
-    margin-top: 30px;
-    margin-left: 300px;
 }
 
 input {
@@ -71,7 +72,8 @@ input#submit:hover {
     background: -o-linear-gradient(top, #a8cfce, #beeae9);
     background: -ms-linear-gradient(top, #a8cfce, #beeae9);
 }
-footer{
+
+footer {
     margin-top: 50px;
     margin-left: 1000px;
     font-size: 12px;
