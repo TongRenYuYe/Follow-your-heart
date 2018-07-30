@@ -19,6 +19,8 @@ The feeling will tell you the answer to life.
 
 * Login
 
+* Sign-in
+
 * Love test
 
 * MBTI test
@@ -29,7 +31,9 @@ The feeling will tell you the answer to life.
 
 # Attention
 
-Clicking on the icon( logo , like a windmill ) will jump to login.html.
+* Clicking on the icon( logo , like a windmill ) will jump to login.html.
+
+* Clicking on the icon( logo , at a right of the windmill icon ) will jump to sign.html.
 
 # Contributor
 
