@@ -1,3 +1,9 @@
+header {
+	font-size: 30px;
+	text-align: center;
+	color: rgb(235, 22, 22);
+}
+
 fieldset {
 	width: 200px;
 	border: 1px solid #cec6ce;
@@ -16,12 +22,6 @@ textarea {
 	padding: 10px 15px;
 	border: 1px solid #cec6ce;
 	border-radius: 10px;
-}
-
-.title {
-	font-size: 30px;
-	text-align: center;
-	color: rgb(235, 22, 22);
 }
 
 .form {
@@ -50,11 +50,22 @@ input#submit {
 	height: 30px;
 	border-radius: 5px;
 	margin-top: 20px;
-	margin-left:300px;
+	margin-left: 300px;
 	background-color: rgb(0, 255, 221);
 }
 
 input#submit:hover {
 	background-color: rgb(0, 217, 255);
 	text-shadow: 2px 2px 2px rgb(3, 197, 197);
+}
+
+footer {
+	font-size: 12px;
+	font-size: 12px;
+	width: 200px;
+	height: 20px;
+	margin-top: 100px;
+	margin-left: 1100px;
+	text-align: center;
+	color: rgb(0, 3, 5);
 }

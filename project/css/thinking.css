@@ -9,7 +9,8 @@ header {
 }
 
 article {
-	margin : 30px 250px auto 250px;
+	margin-top: 30px;
+	margin-left: 250px;
 }
 .side_right {
 	float : right;
@@ -44,7 +45,8 @@ footer {
 
 	width : 200px;
 	height : 20px;
-	margin : 100px 0px 50px 1000px;
+	margin-top : 100px;
+	margin-left: 1100px;
 
 	text-align : center;
 
