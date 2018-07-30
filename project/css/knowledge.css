@@ -1,38 +1,44 @@
 header p {
-    font-size: 20px;
-    margin-top:50px;
-    margin-left: 100px;
-    color: rgb(255, 38, 0);
+	font-size : 20px;
+
+	margin-top : 50px;
+	margin-left : 100px;
+
+	color : rgb(255, 38, 0);
 }
-article{
-    margin-top: 30px;
-    margin-left: 100px;
-    margin-right: 300px;
+article {
+	margin-top : 30px;
+	margin-right : 300px;
+	margin-left : 100px;
 }
-.side_right{
-    width: 200px;
-    height: 300px;
-    color: red;
-    margin-top: 30px;
-    margin-left: 50px; 
-    float: right;
+.side_right {
+	float : right;
+
+	width : 200px;
+	height : 300px;
+	margin-top : 30px;
+	margin-left : 50px;
+
+	color : red;
 }
-.side_right a{
-    text-decoration: none;
-    color: red;
+.side_right a {
+	text-decoration : none;
+
+	color : red;
 }
-.side_right a:hover{
-    font-size: 150%;
+.side_right a:hover {
+	font-size : 150%;
 }
-.side_right ul{
-    line-height: 50px;
+.side_right ul {
+	line-height : 50px;
 }
-.side_right p{
-    font-size: 18px;
-    font-weight: bold;
+.side_right p {
+	font-size : 18px;
+	font-weight : bold;
 }
-footer{
-    margin-top: 50px;
-    margin-left: 1000px;
-    font-size: 12px;
+footer {
+	font-size : 12px;
+
+	margin-top : 50px;
+	margin-left : 1000px;
 }

@@ -1,82 +1,99 @@
 header {
-    width: 300px;
-    height: 50px;
-    margin: 50px auto 50px auto;
+	width : 300px;
+	height : 50px;
+	margin : 50px auto 50px auto;
 }
 
 nav {
-    width: 200px;
-    height: 200px;
-    margin: 20px 50px 100px 100px;
-    float: left;
+	float : left;
+
+	width : 200px;
+	height : 200px;
+	margin : 20px 50px 100px 100px;
 }
 
 nav li {
-    list-style: none;
-    margin-top: 50px;
+	margin-top : 50px;
+
+	list-style : none;
 }
 
 a:hover {
-    font-size: 150%;
+	font-size : 150%;
 }
 
 .li_1 a {
-    text-decoration: none;
-    color: red;
+	text-decoration : none;
+
+	color : red;
 }
 
 .li_2 a {
-    text-decoration: none;
-    color: blue;
+	text-decoration : none;
+
+	color : blue;
 }
 
 .li_3 a {
-    text-decoration: none;
-    color: green;
+	text-decoration : none;
+
+	color : green;
 }
 .main {
-    width: 633px;
-    height: 300px;
-    color: brown;
-    text-align: center;
-    font-size: 22px;
-    float: left;
-    margin-top: 20px;
+	font-size : 22px;
+
+	float : left;
+
+	width : 633px;
+	height : 300px;
+	margin-top : 20px;
+
+	text-align : center;
+
+	color : brown;
 }
 
 .main a {
-    text-decoration: none;
-    color: chocolate;
-    font-weight: bold;
-    font-family: 楷体, Verdana, Geneva, Tahoma, sans-serif;
+	font-family : 楷体, Verdana, Geneva, Tahoma, sans-serif;
+	font-weight : bold;
+
+	text-decoration : none;
+
+	color : chocolate;
 }
 
 .feeling {
-    width: 111px;
-    height: 100px;
-    margin: 100px 150px 100px 0px;
-    float: left;
+	float : left;
+
+	width : 111px;
+	height : 100px;
+	margin : 100px 150px 100px 0px;
 }
 
 .living {
-    width: 111px;
-    height: 100px;
-    margin: 100px 150px 100px 0px;
-    float: left;
+	float : left;
+
+	width : 111px;
+	height : 100px;
+	margin : 100px 150px 100px 0px;
 }
 
 .thinking {
-    width: 111px;
-    height: 100px;
-    margin: 100px 0px 100px 0px;
-    float: right;
+	float : right;
+
+	width : 111px;
+	height : 100px;
+	margin : 100px 0px 100px 0px;
 }
 
 footer {
-    width: 1300px;
-    height: 20px;
-    font-size: 12px;
-    margin-top: 450px;
-    color: #000000;
-    text-align: right;
+	font-size : 12px;
+
+	width : 1300px;
+	height : 20px;
+	margin-top : 450px;
+
+	text-align : right;
+
+	color : #000000;
 }
