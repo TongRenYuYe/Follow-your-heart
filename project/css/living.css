@@ -1,4 +1,4 @@
-.title {
+header {
 	font-size : 30px;
 
 	width : 250px;
@@ -8,7 +8,7 @@
 	color : red;
 }
 
-.content {
+article {
 	margin : 30px 250px auto 250px;
 }
 .side_right {
