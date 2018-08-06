@@ -13,7 +13,7 @@ The feeling will tell you the answer to life.
 
 # Layout
 
-<img src="http://i65.tinypic.com/otdx6r.jpg" alt="Layout">
+<img src="http://i63.tinypic.com/2du0cya.jpg" alt="The layout of index.">
 
 # Features
 
@@ -21,15 +21,17 @@ The feeling will tell you the answer to life.
 
 * Sign-in
 
-* Love test
-
-* MBTI test
+* Psychological test
 
 * Psychological knowledge
 
 * Articles
 
-# Attention
+* Q&A
+
+* Others
+
+# Note
 
 * Clicking on the icon( logo , like a windmill ) will jump to login.html.
 
@@ -41,4 +43,4 @@ The feeling will tell you the answer to life.
 
 # Version
 
-**1.02** version.
+**1.03** version.
