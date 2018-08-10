@@ -29,7 +29,7 @@ The feeling will tell you the answer to life.
 
 * Q&A
 
-* Others
+* Else
 
 # Note
 
