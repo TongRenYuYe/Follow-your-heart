@@ -1,35 +1,35 @@
 main form {
-
-  width: 800px;
-  height: 710px;
-  margin-left: 350px;
-  margin-top: 30px;
-  margin-right: 200px;
+	width : 800px;
+	height : 710px;
+	margin-top : 30px;
+	margin-right : 200px;
+	margin-left : 350px;
 }
 .nav_left {
-  width: 195px;
-  height: 145px;
-  margin-top: 20px;
-  margin-right: 80px;
-  margin-left: 20px;
-  padding: 25px;
-  float: left;
+	float : left;
 
-  border-right: 1px solid rgb(166, 166, 167);
+	width : 195px;
+	height : 145px;
+	margin-top : 20px;
+	margin-right : 80px;
+	margin-left : 20px;
+	padding : 25px;
+
+	border-right : 1px solid rgb(166, 166, 167);
 }
 .nav_left ul li {
-  margin-top: 30px;
+	margin-top : 30px;
 
-  list-style: none;
+	list-style : none;
 }
 .nav_left ul li a {
-  font-size: 18px;
+	font-size : 18px;
 
-  padding: 5px;
+	padding : 5px;
 
-  text-decoration: none;
+	text-decoration : none;
 
-  color: rgb(255, 0, 140);
-  border-radius: 3px;
-  background-color: rgb(199, 205, 209);
+	color : rgb(255, 0, 140);
+	border-radius : 3px;
+	background-color : rgb(199, 205, 209);
 }

@@ -22,6 +22,7 @@ nav li {
 }
 nav li a {
 	text-decoration : none;
+
 	color : black;
 }
 img {
@@ -40,10 +41,12 @@ header form {
 	margin-top : 43px;
 	padding-left : 50px;
 }
-footer p{
-	width: 250px;
-	height: 20px;
-	margin:20px auto 30px auto;
-	color: rgb(116, 116, 116);
-	font-size: 10px;
+footer p {
+	font-size : 10px;
+
+	width : 250px;
+	height : 20px;
+	margin : 20px auto 30px auto;
+
+	color : rgb(116, 116, 116);
 }
