@@ -1,6 +1,6 @@
 # Follow-your-heart
 
-The feeling will tell you the answer to life.
+The feeling will give you the answer to life.
 
 # Goal
 
