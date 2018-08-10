@@ -3,8 +3,9 @@
 
 <head>
     <meta charset="UTF-8">
-    <title>其他</title>
+    <title>Q&A</title>
     <link href="../css/general.css" rel="stylesheet">
+    <link href="../css/q&a.css" rel="stylesheet">
 </head>
 
 <body>
@@ -32,12 +33,28 @@
                 </li>
             </ul>
         </nav>
-        <form action="">
+        <form action="subscribe.html">
             <input id="search" name="search" type="search" placeholder="搜索...">
             <input name="submit" type="submit" value="搜索">
         </form>
     </header>
     <hr>
+    <main>
+        <form action="subscribe.html">
+            <fieldset>
+                <legend>Email questions</legend>
+                <label>
+                    <p>请输入您的问题：</p>
+                    <textarea id="textarea" name="comments" cols="30" rows="10">请输入您的问题...</textarea>
+                </label>
+                <p>请输入您的Email：</p>
+                <label>
+                    <input name="email" type="text" value="请输入您的Email...">
+                    <input name="subscribe" type="submit" value="发送">
+                </label>
+            </fieldset>
+        </form>
+    </main>
     <footer>
         <hr>
         <p>Copyright &copy; 2018-6-8 Williams Lau</p>

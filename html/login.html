@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <title>注册</title>
+    <link href="../css/login.css" rel="stylesheet">
+</head>
+
+<body>
+    <header>
+        <p>注册</p>
+    </header>
+    <div class="form">
+        <form action="subscribe.html" method="POST">
+            <fieldset>
+                <legend>简要信息</legend>
+                <p>用户名：
+                    <input name="username" type="text" size="3" maxlength="5" required="required">
+                </p>
+                <p>
+                    密码：
+                    <input name="password" type="password" size="5" maxlength="15" required="required">
+                </p>
+                <p>
+                    性别：
+                </p>
+                <p>
+                    <input id="man" name="gender" type="radio" value="man" checked="checked">
+                    <label for="man">男</label>
+                    <input id="woman" name="gender" type="radio" value="woman">
+                    <label for="woman">女</label>
+                </p>
+            </fieldset>
+            <p>
+                请简单介绍一下你自己：
+            </p>
+            <textarea name="comment" cols="20" rows="5">我是...</textarea>
+            <p>
+                爱好：
+            </p>
+            <p>
+                <input name="hobby" type="checkbox" value="basketball" checked="checked">篮球
+                <input name="hobby" type="checkbox" value="running">跑步
+                <input name="hobby" type="checkbox" value="football">足球
+                <input name="hobby" type="checkbox" value="coding">写代码
+            </p>
+            <p>
+                国家：
+            </p>
+            <select id="country" name="country">
+                <option value="American" selected="selected">美国</option>
+                <option value="China">中国</option>
+                <option value="Japanese">日本</option>
+                <option value="England">英国</option>
+                <option value="Russia">俄罗斯</option>
+            </select>
+            <p>
+                喜欢的书籍种类：（按Crtl键（windows）或Commend键选中(Mac)）
+            </p>
+            <select id="book" name="book" size="3" multiple="multiple">
+                <option value="novel">小说</option>
+                <option value="literature" selected="selected">文学</option>
+                <option value="philosophy" selected="selected">哲学</option>
+                <option value="Fighting">励志</option>
+                <option value="history">历史</option>
+            </select>
+            <p>
+                上传图片：
+            </p>
+            <input name="user-photo" type="file">
+            <br>
+            <br> 提交日期：
+            <input name="date" type="date">
+            <br>
+            <br>
+            <input id="submit" name="subscribe" type="submit" value="注册">
+        </form>
+    </div> 
+    <footer>
+            <p>&copy;版权所有 @同仁于野|2018-6-8</p>
+        </footer>
+</body>
+
+</html>

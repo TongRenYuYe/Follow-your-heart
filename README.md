@@ -13,7 +13,7 @@ The feeling will tell you the answer to life.
 
 # Layout
 
-<img src="http://i65.tinypic.com/otdx6r.jpg" alt="The layout of index.">
+<img src="http://i63.tinypic.com/2du0cya.jpg" alt="The layout of index.">
 
 # Features
 

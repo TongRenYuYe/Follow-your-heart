@@ -10,7 +10,11 @@
 
 <body>
     <header>
-        <img src="images/logo.jpg" alt="logo">
+        <img src="images/logo.jpg" alt="logo" usemap="#logo">
+        <map id="logo" name="logo">
+            <area href="html/login.html" alt="login" shape="rect" coords="0,0,70,47" target="_blank">
+            <area href="html/sign-in.html" alt="sign-in" shape="rect" coords="70,0,282,47" target="_blank">
+        </map>
         <nav>
             <ul>
                 <li>
@@ -33,7 +37,7 @@
                 </li>
             </ul>
         </nav>
-        <form action="">
+        <form action="html/subscribe.html">
             <input id="search" name="search" type="search" placeholder="搜索...">
             <input name="submit" type="submit" value="搜索">
         </form>
@@ -60,7 +64,7 @@
             <hr>
             <div class="test_content">
                 <p>
-                    <a href="html/else.html">MBTI测试</a>
+                    <a href="html/test.html">MBTI测试</a>
                     <a>心理年龄测试</a>
                     <a>心理健康测试</a>
                 </p>
@@ -76,7 +80,7 @@
             <hr>
             <div class="knowledge_content">
                 <p>
-                    <a>鸟笼逻辑</a>
+                    <a href="html/knowledge.html" rel="knowledge">鸟笼逻辑</a>
                     <a>破窗效应</a>
                 </p>
                 <p>
@@ -91,7 +95,7 @@
             <hr>
             <div class="article_content">
                 <p>
-                    <a>命运</a>
+                    <a href="html/article.html">命运</a>
                     <a>自我</a>
                     <a>关系</a>
                 </p>
@@ -107,7 +111,7 @@
             <hr>
             <div class="q_a_content">
                 <p>
-                    <a>职业发展</a>
+                    <a href="html/q&a.html">职业发展</a>
                     <a>心事</a>
                     <a>感悟</a>
                 </p>

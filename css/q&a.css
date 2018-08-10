@@ -1,0 +1,10 @@
+main form{
+    width: 350px;
+    height: 350px;
+    margin: 50px auto 50px auto;
+
+}
+main form fieldset{
+    border: 1px solid rgb(145, 142, 145);
+    border-radius: 15px;
+}
