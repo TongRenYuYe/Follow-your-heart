@@ -29,7 +29,7 @@ The feeling will tell you the answer to life.
 
 * **Q&A** : 在这个页面，你可以通过Email的方式向我提问
 
-* **Else** : 在这个页面，现在由于 Contributor's 手艺 还有待提高，所以...不过，随着网站的迭代和手艺的提高，我会放一些有意思的进去，so just be patient,buddy!
+* **Else** : 在这个页面，现在由于 Contributor's 手艺 还有待提高，所以...不过，随着网站的迭代，我会放一些有意思的进去，so just be patient,buddy!
 
 * **Search** : 这仅仅是一个样式
 
