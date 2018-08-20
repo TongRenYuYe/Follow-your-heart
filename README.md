@@ -25,13 +25,13 @@ The feeling will give you the answer to life.
 
 * **Knowledge** : 在这个页面，你可以学到一些关于心理学的知识: 责任分散效应，罗森塔尔效应，证人的记忆
 
-* **Articles** : 在这个页面，你可以阅读一些心理学的文章（These articles is crazy I think.）
+* **Articles** : 在这个页面，你可以阅读一些心理学的文章
 
 * **Q&A** : 在这个页面，你可以通过Email的方式向我提问
 
-* **Else** : 在这个页面，现在由于 Contributor's 手艺 还有待提高，所以...不过，随着网站的迭代，我会放一些有意思的进去，so just be patient,buddy!
+* **Else** : 在这个页面，有contributor的联系方式
 
-* **Search** : 这仅仅是一个样式
+* **Search**
 
 # Note
 
