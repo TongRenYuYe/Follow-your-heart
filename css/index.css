@@ -1,13 +1,19 @@
-
+*{
+	box-sizing: border-box;
+}
+.mainContent{
+	float: left;
+	width: auto;
+}
 .side_right {
 	font-size : 18px;
 
 	float : right;
 
-	width : 178px;
+	width : 233px;
 	height : 300px;
 	margin-top : 30px;
-	margin-left : 50px;
+	margin-left : 100px;
 
 	list-style : none;
 
@@ -28,7 +34,8 @@
 	color : rgb(0, 0, 0);
 }
 main {
-	width : 1100px;
+	width : 1000px;
+	float: left;
 }
 p#title {
 	font-size : 22px;
@@ -141,4 +148,16 @@ p#title {
 	border : 1px solid rgb(212, 217, 250);
 	border-radius : 5px;
 	background-color : rgb(223, 220, 220);
+}
+@media (max-width:1346px) and (min-width:1006px){
+	.side_right {
+		clear: both;
+		float: none;
+	}
+}
+@media (max-width:1005px){
+	.side_right {
+		clear: both;
+		float: none;
+	}
 }
